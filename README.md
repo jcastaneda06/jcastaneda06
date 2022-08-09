@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **the most impactful projects by delivering high quality results**
 
-- 📫 How to reach me **jcs.98126@gmail.com**
+- 📫 Reach me at **jcs.98126@gmail.com**
 
 - ⚡ Fun fact **I'm also a classical music musician, I played as the Bass Trombone of the Panama's national youth orchestra before starting my journey learning front end technologies!**
 
